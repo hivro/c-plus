@@ -71,3 +71,30 @@ printf("d2 is greater"):
 }
 getch();
 }
+
+
+
+HTML
+<html>
+<head>
+<title>Steve Jobs</title>
+</head>
+<body>
+<h1>Steve jobs</h1>
+<p> paragraph about Steve jobs </p>
+<img src="image path should define here">
+<a href="hyper link paste here">Link text</a>
+<ul>
+  <li>Tesla</li>
+  <li>spacex</li>
+</ul>
+</body>
+</html>
+
+
+
+
+
+
+
+3@🌐
